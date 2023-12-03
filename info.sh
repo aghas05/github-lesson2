@@ -6,3 +6,5 @@ free
 echo "disk status"
 df -h 
 
+echo "network information "
+ifconfig
