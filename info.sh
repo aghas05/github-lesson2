@@ -9,3 +9,6 @@ df -h
 
 echo "network information "
 ifconfig
+
+echo  " user information "
+id 
